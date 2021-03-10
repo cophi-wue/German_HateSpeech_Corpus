@@ -4,7 +4,7 @@ This repository contains several German text instances from different sources (f
 ## Content
 
 ### Hatr
-The Hatr dataset contains 432 text instances from hatr.org(http://hatr.org/), a website that collects German hate posts from various German blogs.
+The Hatr dataset contains 432 text instances from [hatr.org](http://hatr.org/), a website that collects German hate posts from various German blogs.
 
 ### German refugees
 
@@ -22,7 +22,7 @@ The HASOC dataset includes 818 German tweets as well as German facebook comments
 
 ## Acknowledgements
 
-The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here was made possible by the funding of the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
+The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here, was made possible by the funding of the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
 
 ## References
 <a id="1">[1]</a> 
