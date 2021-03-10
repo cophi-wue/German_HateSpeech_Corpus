@@ -12,7 +12,7 @@ The Hatr dataset contains 432 text instances that were extracted from [hatr.org]
 
 ### German refugees
 
-This dataset contains 470 text instances from Ross et al. [2], which is a corpus on offensive tweets about the refugee crisis. The tweets were gathered with a keyword based approach, the keywords all being hashtags in this case.
+This dataset contains 469 text instances from Ross et al. [2], which is a corpus on offensive tweets about the refugee crisis. The tweets were gathered with a keyword based approach, the keywords all being hashtags in this case.
 
 ### GermEval 2018
 
