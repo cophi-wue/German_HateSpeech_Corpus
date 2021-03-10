@@ -21,7 +21,7 @@ Offensive Language. For this project, we only included the tweets that were clas
 
 ## Acknowledgements
 
-The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here, was made possible by the funding of the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
+The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here, was made possible with funding from the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
 
 ## References
 
