@@ -5,19 +5,18 @@ This repository contains several German text instances from different sources (f
 
 ### HASOC
 
-The HASOC dataset includes 818 German tweets as well as German facebook comments classified as either hate or non-hate, which were gathered with a keyword based approach in [1]. As the corpus predominantly contains non-hate, we again sampled from the corpus to obtain a (preliminary) equal ratio of hate and non-hate in this dataset.
+The HASOC dataset includes 818 German tweets as well as German facebook comments classified as either hate or non-hate. The comments were gathered with a keyword based approach in [1]. As the corpus predominantly contains non-hate, we again sampled from the corpus to obtain a (preliminary) equal ratio of hate and non-hate in this dataset.
 
 ### Hatr
 The Hatr dataset contains 432 text instances that were extracted from [hatr.org](http://hatr.org/), a website that collects German hate posts from various German blogs.
 
 ### German refugees
 
-This dataset contains 469 text instances from Ross et al. [2], which is a corpus on offensive tweets about the refugee crisis. The tweets were gathered with a keyword based approach, the keywords all being hashtags in this case.
+This dataset contains 469 text instances from Ross et al. [2], which is a [corpus on offensive tweets](https://github.com/UCSM-DUE/IWG_hatespeech_public) about the refugee crisis. The tweets were gathered with a keyword based approach, the keywords all being hashtags in this case.
 
 ### GermEval 2018
 
-This dataset contains 2871 text instances from the tweet corpus described in [3], created as part of the GermEval 2018 Task on the Identification of
-Offensive Language. For this project, we only included the tweets that were classified as 'OFFENSE'. 
+This dataset contains 2871 text instances from the [tweet corpus](https://github.com/uds-lsv/GermEval-2018-Data) described in [3], created as part of the GermEval 2018 Task on the Identification of Offensive Language. For this project, we only included the tweets that were classified as 'OFFENSE'. 
 
 ## Acknowledgements
 
