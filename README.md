@@ -18,9 +18,15 @@ This dataset contains 469 text instances from Ross et al. [2], which is a [corpu
 
 This dataset contains 2871 text instances from the [tweet corpus](https://github.com/uds-lsv/GermEval-2018-Data) described in [3], created as part of the GermEval 2018 Task on the Identification of Offensive Language. For this project, we only included the tweets that were classified as 'OFFENSE'. 
 
+### POLLY
+
+The POLLY corpus originally contains political 125.000 German tweets around the time of the German federal election in 2017 [4]. Here, we only re-annotated a sample of tweets (around 4.500) that were previously annotated as "hateful" to maintain a balanced dataset overall.
+
 ## Acknowledgements
 
 The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here, was made possible with funding from the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
+
+Many thanks also go to Lukas Weimer, who previously supervised the project.
 
 ## References
 
@@ -34,3 +40,6 @@ Ross, Björn, Michael Rist, Guillermo Carbonell, Benjamin Cabrera, Nils Kurowsky
 <a id="1">[3]</a> 
 Wiegand, Michael, Melanie Siegel, and Josef Ruppenhofer. "Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language."
 *Proceedings of GermEval 2018, 14th Conference on Natural Language Processing (KONVENS 2018)*, 2018. 1-10.
+
+<a id="1">[4]</a> 
+De Smedt, Tom, and Sylvia Jaki. "The Polly corpus: Online political debate in Germany." *Proceedings of the 6th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC-corpora 2018)*. 2018.
