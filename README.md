@@ -42,4 +42,4 @@ Wiegand, Michael, Melanie Siegel, and Josef Ruppenhofer. "Overview of the GermEv
 *Proceedings of GermEval 2018, 14th Conference on Natural Language Processing (KONVENS 2018)*, 2018. 1-10.
 
 <a id="1">[4]</a> 
-De Smedt, Tom, and Sylvia Jaki. "The Polly corpus: Online political debate in Germany." *Proceedings of the 6th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC-corpora 2018)*. 2018.
+De Smedt, Tom, and Sylvia Jaki. "The Polly corpus: Online political debate in Germany." *Proceedings of the 6th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC-corpora 2018)*, 2018.
