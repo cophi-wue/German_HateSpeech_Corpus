@@ -22,6 +22,10 @@ This dataset contains 2.871 text instances from the [tweet corpus](https://githu
 
 The POLLY corpus originally contains about 125.000 politically charged German tweets around the time of the German federal election in 2017 [4]. Here, we only re-annotated a sample of tweets (around 4.500) that were previously annotated as 'with hate' to maintain a balanced dataset overall.
 
+### Bretschneider/Peters
+
+This dataset contains posts from popular and openly available Facebook pages that are known to attract xenophobia [5]. Currently, the dataset published here contains 3.500 comments to posts from the two pages "Pegida" and "I'm a patriot, not a nazi".
+
 ## Acknowledgements
 
 The German hate speech project at the University of Würzburg, including the creation of the hate speech dataset presented here, was made possible with funding from the [Mapara Stiftung](https://stiftungen.bayern.de/stiftung/5827;jsessionid=9DCACF4D2F31F155E6EA1BC2782EF2FC).
@@ -43,3 +47,6 @@ Wiegand, Michael, Melanie Siegel, and Josef Ruppenhofer. "Overview of the GermEv
 
 <a id="1">[4]</a> 
 De Smedt, Tom, and Sylvia Jaki. "The Polly corpus: Online political debate in Germany." *Proceedings of the 6th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC-corpora 2018)*, 2018.
+
+<a id="1">[5]</a> 
+Bretschneider, Uwe and Ralf Peters. "Detecting Offensive Statements towards Foreigners in Social Media." *Proceedings of the 50th Hawaii International Conference on System Sciences*, 2017.
