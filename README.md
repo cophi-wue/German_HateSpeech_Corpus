@@ -1,5 +1,5 @@
 # German Hate Speech Corpus
-This repository contains several German text instances from different sources (facebook comments, tweets etc.; see section [references](#References)), which are **manually re-annotated** as either hate speech (hs), offensive/problematic language (p) or non-hate (n). All files are tab-separated CSV files. **The corpus is currently under construction and is prone to change.**
+This repository contains several German text instances from different sources (facebook comments, tweets etc.; see section [references](#References)), which are **manually re-annotated** as either hate speech (hs), offensive/problematic language (p) or non-hate (n). All files are tab-separated CSV files. **The corpus is currently under construction and is subject to change.**
 
 ## Content
 
