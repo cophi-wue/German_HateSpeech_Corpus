@@ -11,12 +11,10 @@ Aus den gesammelten Daten haben wir dann Teilmengen für das neue Korpus zusamme
 
 Das so entstandene Korpus und die Quellen der Subkorpora können unter https://github.com/cophi-wue/German_HateSpeech_Corpus eingesehen werden. Aktuell besteht das Korpus aus 6 unterschiedlichen Datensätzen und umfasst insgesamt  9.149 Textinstanzen, darunter 8.202 neutrale, 718 problematische und 229 hasserfüllte Texte. Die verwendete, engere Definition vor Hassrede für dieses Projekt und die Einführung einer dritten Klasse als Kompromiss zeigen durch die Mengenverteilung über die Klassen klar, dass echter Hass vergleichsweise selten auftritt. Durch die Bereitstellung dieses Korpus hoffen wir eine neue Grundlage für die Entwicklung und Evaluation von computergestützer Methoden zur Erkennung von Hassrede im Deutschen zu schaffen.
 
-## Referenzen
+#### Referenzen
 
-Fedtke, Cornelia, und Gregor Wiedemann. "Hass-und Gegenrede in der Kommentierung massenmedialer Berichterstattung." Soziale Medien. Springer Vieweg, Wiesbaden, 2020. 91-120.
+Fedtke, Cornelia, und Gregor Wiedemann. "Hass-und Gegenrede in der Kommentierung massenmedialer Berichterstattung." *Soziale Medien.* Springer Vieweg, Wiesbaden, 2020. 91-120.
 
-Rafael, Simone und Alexander Ritzmann. „Hintergrund: „Das ABC des Problemkomplexes 
-Hassrede, Extremismus und NetzDG“.“ In Hassrede und Radikalisierung im Netz. Hrsg. von 
-Johannes Baldauf, Julia Ebner und Jakob Guhl, 11–9. ISD, 2018. 
+Rafael, Simone und Alexander Ritzmann. „Hintergrund: „Das ABC des Problemkomplexes Hassrede, Extremismus und NetzDG“.“ In *Hassrede und Radikalisierung im Netz.* Hrsg. von Johannes Baldauf, Julia Ebner und Jakob Guhl, 11–9. ISD, 2018. 
 
-Vogel, Inna, Roey Regev, und Martin Steinebach. "Automatisierte Analyse Radikaler Inhalte im Internet." INFORMATIK 2019: 50 Jahre Gesellschaft für Informatik–Informatik für Gesellschaft (2019).
+Vogel, Inna, Roey Regev, und Martin Steinebach. "Automatisierte Analyse Radikaler Inhalte im Internet." *INFORMATIK 2019: 50 Jahre Gesellschaft für Informatik–Informatik für Gesellschaft* (2019).
